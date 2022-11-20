@@ -1,2 +1,2 @@
 # guessing-game
-Simple guess a number game coded in Python.
+Simple guessing game coded in Python.
